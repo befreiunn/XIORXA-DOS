@@ -8,7 +8,7 @@ __status__ = "Geliştiriliyor"
 
 def usage():
     print("|------------------------------------------------|")
-    print(" Usage : python DDOSXIORXA.py (ip) (port) (pack)")
+    print(" Usage : python3 DDOSXIORXA.py (ip) (port) (pack)")
     print("|------------------------------------------------|")
 
 
