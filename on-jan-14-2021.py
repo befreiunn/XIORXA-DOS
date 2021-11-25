@@ -2,13 +2,13 @@ import socket
 import threading
 import sys
 
-__author__ = "XIORXA"
+__author__ = "Befreiungskrigge"
 __version__ = "1.0.0"
-__status__ = "Geliştiriliyor"
+__status__ = "???"
 
 def usage():
     print("|------------------------------------------------|")
-    print(" Usage : python3 DDOSXIORXA.py (ip) (port) (pack)")
+    print(" Usage : python3 filename.py (ip) (port) (pack)")
     print("|------------------------------------------------|")
 
 
